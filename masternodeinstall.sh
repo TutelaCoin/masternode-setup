@@ -3,7 +3,7 @@
 PORT=17178
 RPCPORT=17179
 CONF_DIR=~/.tutela
-COINZIP='https://github.com/TutelaCoin/TUTL/releases/download/v1.1/tutela-linux.zip'
+COINZIP='https://github.com/TutelaCoin/TUTL/releases/download/v1.1.1/tutela-linux.zip'
 
 cd ~
 RED='\033[0;31m'
