@@ -58,7 +58,7 @@ then
   
   mkdir -p $CONF_DIR
   cd $CONF_DIR
-  wget http://cdn.delion.xyz/tutl.zip
+  wget https://snapshot.tutela.io/
   unzip tutl.zip
   rm tutl.zip
 
